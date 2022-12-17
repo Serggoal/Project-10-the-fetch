@@ -2162,6 +2162,10 @@ video {
   -moz-osx-font-smoothing: auto;
 }
 
+.opacity-40 {
+  opacity: 0.4;
+}
+
 .bg-blend-normal {
   background-blend-mode: normal;
 }
